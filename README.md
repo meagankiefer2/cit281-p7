@@ -4,10 +4,14 @@
 * Gain more experience working with GitHub repos
 * Gain experience working with GitHub Pages
 * Create an initial CIT Minor portfolio for your labs and projects
+
+
 ### Technologies used
-	GitHub
+`GitHub`
+
+
 ### What I learned
-	How to work with GitHub to create pages and repositories.
+How to work with GitHub to create pages and repositories.
 
 
 Project 7 Repositories
